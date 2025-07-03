@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* index.css or style.css */
+
+
+/* Make sure body and html take full height */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
