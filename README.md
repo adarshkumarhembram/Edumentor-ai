@@ -11,10 +11,6 @@ EduMentor is a smart, AI-integrated web app built using React.js and OpenAI API 
 - 🌙 **Dark Mode Support** (optional).
 - 💬 **AI Assistant Persona** – Friendly conversational tone to assist in learning.
 
-## 🖼️ Demo
-
-> [Add Live Link Here if Deployed – e.g., Render or Vercel]  
-> *(Optional: Include a short screen recording or image here)*
 
 ## 🛠️ Tech Stack
 
